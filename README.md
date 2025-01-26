@@ -11,4 +11,4 @@ This repository includes some of my personal apps, that I have published to Goog
 
 ## ClientBoard
 - Android: https://play.google.com/store/apps/details?id=com.jihadmz.clientboard.clientboard&pcampaignid=web_share
-- iOS:      
+- iOS: https://apps.apple.com/lb/app/clientboard-manage-projects/id6738848112
