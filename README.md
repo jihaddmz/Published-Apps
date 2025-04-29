@@ -22,5 +22,5 @@ This repository includes some of my personal apps, that I have published to Goog
 - iOS: https://apps.apple.com/us/app/clinicsync/id6742321837
 
 ## WatchIQ
-- Android: [https://play.google.com/store/apps/details?id=com.jihaddmz.clinicsync](https://play.google.com/store/apps/details?id=com.jihaddmz.watchiq&hl=en)
+- Android: [https://play.google.com/store/apps/details?id=com.jihaddmz.watchiq](https://play.google.com/store/apps/details?id=com.jihaddmz.watchiq&hl=en)
 - iOS: Coming Soon
